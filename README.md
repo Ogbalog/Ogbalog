@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ogbalog
 - 👀 I’m interested in programming games in the Unity Game Engine, and WebDev
-- 🌱 I’m currently learning Javascript, HTML & CSS
 - 💞️ I’m looking to collaborate on my game, Skivolution
 
 <!---
